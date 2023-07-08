@@ -169,5 +169,3 @@ python app.py
 
 
 ### 👏 And it's done!
-
-Feel free to mail me for any doubts/query ✉️ ragavan.arul26@gmail.com
