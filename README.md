@@ -35,8 +35,7 @@ India is one of the higher air pollution country. Generally, air pollution is as
  
 ### 📁 Data Collection
 
-* Air quality data was collected from the  "http://en.tutiempo.net/climate". So, here I selected the India- Bangalore'sregion & collected  the independent features such as Average annual temperature(AT), Annual average maximum temperature(TM), Average annual minimum temperature(Tm), Rain or snow precipitation total annual(PP), Annual average wind speed(V), Number of days with rain(RA), Number of days with snow(SN) and dependent feature as PM 2.5 values has been colected from the "dhewdhjwdhjw"
-
+* Air quality data was collected from the  "http://en.tutiempo.net/climate". 
 
 
 <h3 align="left">Data Preprocessing</h3>
