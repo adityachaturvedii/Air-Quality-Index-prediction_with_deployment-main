@@ -28,7 +28,7 @@ India is one of the higher air pollution country. Generally, air pollution is as
  7. Google Colab - Trained ML model
  8. Flask- Rest API
  9. Postman - API Tester
-10. Heroku
+10. Render - Deployment
  
  ```
  
