@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue May 18 06:21:14 2021
 
-@author: ragav
-"""
 
 import os
 import time
